@@ -1,0 +1,93 @@
+site_name: FOC STEPPER DOCS
+site_url: https://PCrnjak.github.io/FOC_STEPPER_DOCS/
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.code.select
+  logo: assets/Icon2.png
+  language: en
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+      primary: blue
+      accent: blur 
+    - scheme: default 
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode    
+      primary: blue
+      accent: blur
+
+plugins:
+- search
+- social:
+    cards_layout: default
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/PCrnjak
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/5arcrnjak/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/SourceRobotics     
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/petar-crnjak-009b43180/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/prjUvjmGpZ
+    - icon: fontawesome/brands/patreon
+      link: https://www.patreon.com/PCrnjak
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+
+nav:
+  - Index: index.md
+  - STEPFOC datasheet: specs.md
+  - Getting started: getting_started.md
+  - Flashing firmware: flashing_firmware.md
+  - Calibration: calibration.md
+  - PID tuning: PID_tuning.md
+  - UART interface: uart.md
+  - CAN interface: can.md
+  - Theory corner: theory_corner.md
+  - Tested motors: tested_motors.md
+  - Troubleshooting: troubleshooting.md
+
+  - Guides:
+    - Bilateral teleoperation guide: Guides/Bilateral teleoperation guide.md
+    - Gravity compensation guide: Guides/Gravity compensation guide.md
+    - Python guide: Guides/Python guide.md
+    - Quadruped guide: Guides/Quadruped guide.md
+
+
+
+
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/PCrnjak"  target="_blank" rel="noopener">Petar Crnjak</a>

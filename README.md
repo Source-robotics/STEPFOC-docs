@@ -1,2 +1,1 @@
-# STEPFOC-docs
-STEPFOC-docs
+# FOC-STEPPER-DOCS
