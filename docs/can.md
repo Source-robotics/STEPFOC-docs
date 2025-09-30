@@ -21,7 +21,7 @@ Node with smallest Node ID is strongest in CAN bus arbitration.
 
 **If you want to learn more about CAN bus we recommend you read this [article!]()**
 
-**This page describes can protocol; Go to [CAN bus guide](https://source-robotics.github.io/Spectral-BLDC-docs/Guides/CAN%20bus%20guide/) for hardware setup and examples** <br />
+**This page describes can protocol**<br />
 **You can use our [Python CAN bus API](https://github.com/PCrnjak/Spectral-BLDC-Python/tree/main) to communicate with your Spectral BLDC controllers!** <br />
 **If you want to se more examples on how to write Python scripts to control your motor over CAN [check this guide!](https://source-robotics.github.io/Spectral-BLDC-docs/Guides/Python%20guide/)**
 
