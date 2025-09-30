@@ -103,6 +103,6 @@ Check [calibration page](https://source-robotics.github.io/STEPFOC-docs/calibrat
 
 ## **UART issues**
 
-* Make sure you have same baud rate on STEPFOC and host device. Default for STEPFOC is 256000
+* Make sure you have same baud rate on STEPFOC and host device.  Default for STEPFOC is 256000
 
 
