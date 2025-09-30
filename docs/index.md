@@ -27,8 +27,8 @@ Or buy a single motor driver here: [Link](https://source-robotics.com/products/S
 
 **Guides**
 
-* [Python guide](https://source-robotics.github.io/FOC-STEPPER-DOCS/Guides/Python_guide/)
-* [Quadruped robot guide](https://source-robotics.github.io/FOC-STEPPER-DOCS/Guides/Quadruped_guide/)
+* [Python guide](https://source-robotics.github.io/STEPFOC-docs/Guides/Python_guide/)
+* [Quadruped robot guide](https://source-robotics.github.io/STEPFOC-docs/Guides/Quadruped_guide/)
 * [Gravity compensation guide](https://source-robotics.github.io/STEPFOC-docs/Guides/Gravity_compensation_guide/)
 * [Bilateral teleoperation guide](https://source-robotics.github.io/STEPFOC-docs/Guides/Bilateral_teleoperation_guide/)
 
