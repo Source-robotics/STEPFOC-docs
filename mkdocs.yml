@@ -80,10 +80,10 @@ nav:
   - Troubleshooting: troubleshooting.md
 
   - Guides:
-    - Bilateral teleoperation guide: Guides/Bilateral teleoperation guide.md
-    - Gravity compensation guide: Guides/Gravity compensation guide.md
-    - Python guide: Guides/Python guide.md
-    - Quadruped guide: Guides/Quadruped guide.md
+    - Bilateral teleoperation guide: Guides/Bilateral_teleoperation_guide.md
+    - Gravity compensation guide: Guides/Gravity_compensation_guide.md
+    - Python guide: Guides/Python_guide.md
+    - Quadruped guide: Guides/Quadruped_guide.md
 
 
 

@@ -18,7 +18,7 @@ Default baud rate is: 256000 (Max tested baudrate is 1000 0000)
 !!! Danger annotate "Voltage warrning" 
     Spectral micro UART port uses 3.3 volts. Using 5V will destroy your board!
 
-<p align="left"> <img src="../assets/STEPFOC_UART.PNG" alt="drawing" width="1200"/> <br /> </p>
+<p align="left"> <img src="../assets/STEPFOC_UART.png" alt="drawing" width="1200"/> <br /> </p>
 
 !!! Note annotate "UART pins" 
     Take note that UART is connected TX to RX and RX to TX

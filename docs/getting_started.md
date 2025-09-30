@@ -2,8 +2,10 @@
 
 ## **Spectral Micro BLDC driver** 
 
-You can buy a STEPFOC starter kit here: [Link](https://source-robotics.com/products/spectral-micro-bldc-starter-kit) <br />
-Or buy a single motor driver here: [Link](https://source-robotics.com/products/spectral-micro-bldc-controller)  
+**Soon for sale**
+
+You can buy a STEPFOC starter kit here: [Link](https://source-robotics.com/products/STEPFOC-starter-kit) <br />
+Or buy a single motor driver here: [Link](https://source-robotics.com/products/STEPFOC-stepper-controller)  
 
 ## **Recommended hardware**
 
@@ -80,7 +82,7 @@ Normal operation | Calibration | Error mode
 ---- | ---- | ----
 3 short flashed and a pause <p align="left"> <img src="../assets/Normal.gif" alt="drawing" width="180"/> <br /> </p> | Flashing every 0.5 seconds <p align="left"> <img src="../assets/Calib.gif" alt="drawing" width="180"/> <br /> </p> | Solid LED, no flashing. <p align="left"> <img src="../assets/Error2.PNG" alt="drawing" width="180"/> <br /> </p>
 
-If you have [STEPFOC firmware](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller/tree/main/Spectral%20BLDC%20Firmware) uploaded on your STEPFOC, LEDs will be in one of 3 states.
+If you have [STEPFOC firmware](https://github.com/PCrnjak/STEPFOC-stepper-controller/tree/main/STEPFOC%20firmware) uploaded on your STEPFOC, LEDs will be in one of 3 states.
 
 !!! Note annotate "STEPFOC controllers come **PRELOADED** with STEPFOC firmware" 
 
@@ -102,9 +104,9 @@ If you have [STEPFOC firmware](https://github.com/PCrnjak/Spectral-Micro-BLDC-co
 
 ## **What next?**
 
-* **Optional** - > Flash the [latest firmware](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller/tree/main/Spectral%20BLDC%20Firmware) to your driver (Note that drivers arrive with preflashed firmware)
-* You will need to [calibrate your motor](https://source-robotics.github.io/Spectral-BLDC-docs/apage4_calibration/)
-* [Tune your PID loops](https://source-robotics.github.io/Spectral-BLDC-docs/apage5_PID_tuning/)
+* **Optional** - > Flash the [latest firmware](https://github.com/PCrnjak/STEPFOC-stepper-controller/tree/main/STEPFOC%20firmware) to your driver (Note that drivers arrive with preflashed firmware)
+* You will need to [calibrate your motor](https://source-robotics.github.io/STEPFOC-docs/calibration/)
+* [Tune your PID loops](https://source-robotics.github.io/STEPFOC-docs/PID_tuning/)
 * Follow one of the guides or examples to start using Spectral driver
 
 !!! Note annotate "" 

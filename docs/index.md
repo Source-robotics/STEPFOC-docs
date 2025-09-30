@@ -5,30 +5,32 @@
 
  **STEPFOC driver is in beta stage and docs and firmware are under constant development!**
 
-You can buy a STEPFOC starter kit here: [Link](https://source-robotics.com/products/spectral-micro-bldc-starter-kit) <br />
-Or buy a single motor driver here: [Link](https://source-robotics.com/products/spectral-micro-bldc-controller)  
+**Soon for sale**
+
+You can buy a STEPFOC starter kit here: [Link](https://source-robotics.com/products/STEPFOC-starter-kit) <br />
+Or buy a single motor driver here: [Link](https://source-robotics.com/products/STEPFOC-stepper-controller)  
 
 !!! Note annotate "" 
 
-* [STEPFOC datasheet](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage1_specs/)
-* [Getting started](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage2_getting_started/)
-* [Flashing firmware](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage3_flashing_firmware/)
-* [Calibration](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage4_calibration/)
-* [PID tuning](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage5_PID_tuning/)
-* [UART interface](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage6_uart/)
-* [CAN interface](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage7_can/)
-* [Tested motors](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage9_3_tested_motors/)
-* [Theory corner](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage9_4_theory_corner/)
-* [Troubleshooting](https://source-robotics.github.io/FOC-STEPPER-DOCS/apage9_5_troublestooting/)
+* [STEPFOC datasheet](https://source-robotics.github.io/STEPFOC-docs/specs/)
+* [Getting started](https://source-robotics.github.io/STEPFOC-docs/getting_started/)
+* [Flashing firmware](https://source-robotics.github.io/STEPFOC-docs/flashing_firmware)
+* [Calibration](https://source-robotics.github.io/STEPFOC-docs/calibration/)
+* [PID tuning](https://source-robotics.github.io/STEPFOC-docs/PID_tuning/)
+* [UART interface](https://source-robotics.github.io/STEPFOC-docs/uart/)
+* [CAN interface](https://source-robotics.github.io/STEPFOC-docs/can/)
+* [Tested motors](https://source-robotics.github.io/STEPFOC-docs/tested_motors/)
+* [Theory corner](https://source-robotics.github.io/STEPFOC-docs/theory_corner/)
+* [Troubleshooting](https://source-robotics.github.io/STEPFOC-docs/troubleshooting/)
 
 !!! Note annotate "" 
 
 **Guides**
 
-* [Python guide](https://source-robotics.github.io/FOC-STEPPER-DOCS/Guides/Python%20guide/)
-* [Quadruped robot guide](https://source-robotics.github.io/FOC-STEPPER-DOCS/Guides/Quadruped%20guide/)
-* [Gravity compensation guide]()
-* [Bilateral teleoperation guide](https://source-robotics.github.io/FOC-STEPPER-DOCS/Guides/Bilateral%20teleoperation%20guide/)
+* [Python guide](https://source-robotics.github.io/FOC-STEPPER-DOCS/Guides/Python_guide/)
+* [Quadruped robot guide](https://source-robotics.github.io/FOC-STEPPER-DOCS/Guides/Quadruped_guide/)
+* [Gravity compensation guide](https://source-robotics.github.io/STEPFOC-docs/Guides/Gravity_compensation_guide/)
+* [Bilateral teleoperation guide](https://source-robotics.github.io/STEPFOC-docs/Guides/Bilateral_teleoperation_guide/)
 
 
 
